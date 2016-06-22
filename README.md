@@ -1,0 +1,1 @@
+## This project is licensed under the AGPL, which can be [https://www.gnu.org/licenses/agpl-3.0.en.html](found here).
